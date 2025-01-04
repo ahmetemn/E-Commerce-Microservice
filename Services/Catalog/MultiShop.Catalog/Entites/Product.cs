@@ -13,7 +13,7 @@ namespace MultiShop.Catalog.Entites
 
         public string ProductName { get; set; }
 
-        public decimal Price { get; set; }
+        public decimal ProductPrice { get; set; }
 
         public string ProductImageUrl { get; set; }
 
